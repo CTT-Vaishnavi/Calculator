@@ -8,7 +8,7 @@ This calculator supports basic arithmetic operations with a clean UI and smooth 
 ## 🌐 Live Demo
 
 👉 **Try it here:**  
-https://your-username.github.io/calculator-generator/
+https://ctt-vaishnavi.github.io/Calculator/
 
 
 ---
